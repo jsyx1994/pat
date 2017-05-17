@@ -1,3 +1,4 @@
+// this is the divide-and-conquer algorithom
 #include <iostream>
 #include<vector>
 #include<limits.h>
@@ -101,3 +102,4 @@ int main()
 
     return 0;
 }
+
